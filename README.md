@@ -2,10 +2,9 @@
 /*
 * Problem 1: Write a function to calculate the area of a triangle.
 */
-let myVar =87;
-
-// Only change code below this line
-var myVar2 = myVar++;
-
-console.log(myVar2);
+function calculateTriangleArea(base, height) {
+return (base * height) / 2;
+}
+let result = calculateTriangleArea(5, 3);
+//console.log('The area is '+ result);
 ```
