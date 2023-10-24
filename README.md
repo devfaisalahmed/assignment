@@ -33,7 +33,7 @@ function calculateFactorial(number) {
     return initial;
   }
 }
-console.log(calculateFactorial(4));
+//console.log(calculateFactorial(4));
 
 /*
 * Problem 5: Create a function mergeArrays that takes two arrays as parameters and returns a new array that merges both arrays.
@@ -62,7 +62,7 @@ function isLeapYear(year) {
 // console.log(isLeapYear(2020));
 
 /*
-*
+* Problem 10: Create a function called evenOdd() that takes a string as a parameter. Now you have to give the output based on the total number of characters in your String. The output will be 'even' or 'odd'. [ Input: ‘JavaScript’ Output: even, Input: ‘Hello’ Output: odd]
 */
 function evenOdd(parameters) {
   let parameterLength = parameters.length;
@@ -72,7 +72,7 @@ function evenOdd(parameters) {
     return "Odd";
   }
 }
-Problem 10: Create a function called evenOdd() that takes a string as a parameter. Now you have to give the output based on the total number of characters in your String. The output will be 'even' or 'odd'. [ Input: ‘JavaScript’ Output: even, Input: ‘Hello’ Output: odd]
+
 
 
 
