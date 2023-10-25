@@ -77,7 +77,17 @@ function evenOdd(parameters) {
 
 
 
+1. Explain the difference between 'if...else' and 'switch' statements for conditional logic.
+== if..else and switch case are used for continuation statement. Mainly there are major differences in the application of their logical statements. if..else statement does not use a break but switch statement break after every logic.
 
+2. What is JavaScript, and what is its primary purpose in web development?
+ == JavaScript is a widely used programming language that plays an important role in web development. In modern javascript generally used to create new attractive functions in the front end for Enhancing User Experience, Event Handling, Data Validation, and more. Frontend refers to what we can see visually.
+
+3. Explain the difference between var, let, and const when declaring variables in JavaScript.
+== var, let, and const are used to create variables. If a variable uses 'var' in the future in the same application a new variable is created in the same name and reassigned value of the variable. In let variable do not declare variable in the same name but change value in future. on the other hand, the 'const' name and value of the variable which previously declared are not changeable.
+
+4. Explain the concept of "scope" in JavaScript and the difference between global and local scope.
+== scope means to place a variable to work. In the global scope, a variable is used any where for necessities. On the other hand, the local scope variable works in a limited place, such a local scope variable works only  under a function and is not useable outside functions.
 
 
 
